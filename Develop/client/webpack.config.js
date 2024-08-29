@@ -30,7 +30,6 @@ module.exports = () => {
         name: 'Just Another Text Editor',
         fingerprints: false,
         inject: true,
-        ios: true,
         display: 'standalone',
         orientation: 'portrait',
         short_name: 'JATE',
